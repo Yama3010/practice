@@ -1,0 +1,27 @@
+header {
+    height: 100px;
+    background-color: #C04E3F;
+    padding-top: 10px;
+}
+
+.text {
+    color:  #fff;
+}
+
+.navigate {
+    height: 80px;
+    background-color: #5C85D6;
+    padding-top: 10px;
+}
+
+.contents {
+    height: 400px;
+    background-color: #F4A04B;
+    padding-top: 10px;
+}
+
+footer {
+    height: 60px;
+    background-color: #4BAE94;
+    padding-top: 10px;
+}
